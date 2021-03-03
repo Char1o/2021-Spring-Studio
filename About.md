@@ -17,7 +17,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Flora]()
 <br/>
-[Rachel]()
+[Rachel](https://steenblikrs.github.io/2021-Spring-Studio/students/Rachel/index)
 <br/>
 [Kristen]()
 <br/>
