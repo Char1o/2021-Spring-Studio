@@ -1,9 +1,4 @@
 
-
-# Studio McKay | Steenblik
-
-
-## Virtual Traveling Studio
 ## [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch) 
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
