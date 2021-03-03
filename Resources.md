@@ -1,3 +1,5 @@
+## About
+
 ## Studio [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
 ### Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History)
