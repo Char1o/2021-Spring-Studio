@@ -1,6 +1,5 @@
 
-**[The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)** 
-[Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College School of Public Architecture](http://design.wku.edu.cn/)<br/>
+**[The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)** <br/>
 
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**  **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
 
