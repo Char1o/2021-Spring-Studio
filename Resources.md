@@ -1,11 +1,9 @@
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/)**
 
 
-## Studio [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
+**Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History)** 
+([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
 
-### Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History)
-
-**China:**
 
 The Great Capital Cities of China:
 
@@ -13,15 +11,15 @@ Xian, Luoyang, Nanjing, Beijing, Xiong'an? The JJJ [(Jing-Jin-Ji)](https://en.wi
 
 **Other Capitals to consider** [(see wiki for exhaustive list)](https://en.wikipedia.org/wiki/List_of_purpose-built_national_capitals)
 
-possibly a conceptual city of your choice (refer to [Graham's Lecture](https://wzku-my.sharepoint.com/:p:/g/personal/spencers_wku_edu_cn/Ef8kvp_pswtLrq6gnCfDbvMBqWIf2zUj70-EfYZ24Ip0ww?e=GNNJl3))
+Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://wzku-my.sharepoint.com/:p:/g/personal/spencers_wku_edu_cn/Ef8kvp_pswtLrq6gnCfDbvMBqWIf2zUj70-EfYZ24Ip0ww?e=GNNJl3))
 
 
-### Technical Aspects of the City
+**Technical Aspects of the City**
 
 [See the wiki](https://en.wikipedia.org/wiki/Technical_aspects_of_urban_planning)
 
 
-### Theory and City Inspiration 
+**Theory and City Inspiration**
 
 [The why factory](https://thewhyfactory.com/project/)
 
@@ -52,7 +50,7 @@ possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-## Representation - A Digital Lexicon [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html)
+**Representation - A Digital Lexicon** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html))
 
 **Grasshopper** [(General Tutorial)](https://kean-edu.zoom.us/rec/share/RKNLQYQu6KcwaTWdO5uN-IjPCdeNsK0QpmfLH1t8hMnLJ-YmPUtb5xBFkyvKLeY.Jv5RHYU-MHv-1p12?startTime=1614405732000), [(Kangaroo Tutorial)](https://kean-edu.zoom.us/rec/share/g7yWFRbOKFmnFVWBWqfuxmHt20XIg4Fg73QLxA6aGbQwGSweWkonUg0DCtv7-m55.8nZYOOGZ9Ki4N_Kr?startTime=1614410919000)
 
