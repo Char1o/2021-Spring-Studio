@@ -1,3 +1,5 @@
+###About
+
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**| **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)** 
 --- | --- 
 
