@@ -133,6 +133,6 @@ Or if you are trying to display objects (not an environment) try a tool such as 
 
 
 
-layout: minimal
-title: "Technical"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/Technical
+layout: minima
+title: "Resources"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/Resources
