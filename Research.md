@@ -1,12 +1,4 @@
-Test01
-
-<table>
-  <tr>
-  <td><strong>Research</strong> </td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Resources">Resources</a></td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/About">About</a></td>
-  </tr>
-</table><br/>
-  
-----------------------
+**Research** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/)**
 <table>
   <tr>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
