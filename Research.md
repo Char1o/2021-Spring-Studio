@@ -1,6 +1,6 @@
 <a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true"
-         width=300">
+         width="300">
       </a>
 
 <br/><br/>
