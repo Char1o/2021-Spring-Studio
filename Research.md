@@ -23,9 +23,11 @@ The concept of stacking is inspired from the film called <a href="https://en.wik
 
 ## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
 <br/><br/>
+
 ## [City of a Thousand Planets](https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index)
 
 <br/>
+
 ## Ted&Huey's presentation
 This presentation is mainly discussing about the Project Spaceship Earth 2050. This research is forcing on the close ecosystem and rotating wheel spaceship.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -36,9 +38,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <br/>
 <br/>
 
-
-<br/>
-<br/>
 ## C.J., Harry, Lance
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -76,5 +75,5 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 
 
 layout: minimal
-title: "Theory"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/Theory
+title: "Research"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/Research
