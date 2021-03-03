@@ -75,6 +75,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 
 
 
-layout: minimal
+layout: duet
 title: "Research"
 permalink: https://steenblikrs.github.io/2021-Spring-Studio/Research
