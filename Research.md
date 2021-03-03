@@ -1,4 +1,4 @@
-**Research** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/)**
+**Research** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 <table>
   <tr>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
