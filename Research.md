@@ -22,7 +22,11 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 
 <br/><br/>
 
-| [![Stacking](https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking) | [![porocity_picture](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
+| [![Stacking](https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking) 
+| [![porocity_picture](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
+
+|**Stacks** by:[Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index) & [Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index) & [Flora](https://steenblikrs.github.io/2021-Spring-Studio/students/Flora/index)
+|[**Porocity research**](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
 
 
 ## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
