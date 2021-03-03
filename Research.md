@@ -5,7 +5,9 @@
 <br/><br/>
 
 
-[![Stacking](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+[![Stacking](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking) 
+## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+by : [Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index), [Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index), & [Flora](https://steenblikrs.github.io/2021-Spring-Studio/students/Flora/index)
 
 The concept of stacking is inspired from the film called [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)). This research includes the historical research about the evolution of the stacking concept, two related theories which are the [Vertical Village](https://www.mvrdv.nl/projects/13/vertical-village) and the [Wego City](https://thewhyfactory.com/project/wego-tailor-made-housing/), and finally some examples that apply to these ideas. 
 <br/><br/>
