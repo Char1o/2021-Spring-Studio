@@ -1,5 +1,5 @@
-**Research** | **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
---- | --- | ---
+**Research**| **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**| **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+----------- | -------------------------------------------------------------------------- | ----
 
 
 <table>
