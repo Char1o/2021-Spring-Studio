@@ -1,3 +1,5 @@
+**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**  **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
 
 This is an ambitious studio looking at the ground up or [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch) city intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control in China), we have been limited in our ability to travel to any notable extent. As an opportunity to look beyond the physical world to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts.
