@@ -1,4 +1,5 @@
-**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**  **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)** 
+**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**| **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+--- | --- | ---
 
 ## Studio [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
