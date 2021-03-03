@@ -1,4 +1,4 @@
-## About
+# About
 
 ## Studio [Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html)
 
