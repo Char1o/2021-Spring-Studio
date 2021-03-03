@@ -10,8 +10,7 @@ The concept of stacking is inspired from the film called [Ready Player One](http
 
 ## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
 
-## [Space&Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Rearch/Space&Floating city/index)
-
+## [Space&Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Space&Floating city/index)
 
 
 ## Ted&Huey's presentation
