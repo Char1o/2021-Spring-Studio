@@ -1,4 +1,4 @@
-**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**  **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)**     **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**     **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
 
