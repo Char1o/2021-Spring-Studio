@@ -1,6 +1,7 @@
-**Research**| **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**| **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
------------ | -------------------------------------------------------------------------- | ----
-
+<table>
+  <tr> <td><strong>Research</strong> </td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Resources">Resources</a></td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/About">About</a></td>
+  </tr>
+</table>
 
 <table>
   <tr>
