@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
-         <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true" width="300"></a>
+         <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">
-         <img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true" width="300"></a>
+         <img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true"></a>
       </td>
   </tr>
   <tr>
