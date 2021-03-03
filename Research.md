@@ -1,16 +1,24 @@
-<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
+<table>
+  <tr>
+    <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
          <img alt="Porocity_Picture" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Porocity/cover_picture.jpg?raw=true" width="200">
-      </a>
+      </a></td>
+     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">
+         <img alt="The Stacks" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true" width="200"></td>
+
+  </tr>
+    <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity/">Porocity</a><br/>
+         By LYLA+ERIN+HANNAH
+</td>
+    <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">Stacking Research</a></strong>    
+by : <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index">Carol</a>, <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index">Corina</a>, & <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Flora/index">Flora</a><br/>
+The concept of stacking is inspired from the film called <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(film)">Ready Player One</a>. This research includes the historical research about the evolution of the stacking concept, two related theories which are the <a href="https://www.mvrdv.nl/projects/13/vertical-village">Vertical Village</a> and the <a href="https://thewhyfactory.com/project/wego-tailor-made-housing">Wego City</a>, and finally some examples that apply to these ideas.</td>
+</table>
+
 
 <br/><br/>
 
 
-[![Stacking](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/images/ready_player_one_still-1024x577.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking) 
-## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
-by : [Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index), [Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index), & [Flora](https://steenblikrs.github.io/2021-Spring-Studio/students/Flora/index)
-
-The concept of stacking is inspired from the film called [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One_(film)). This research includes the historical research about the evolution of the stacking concept, two related theories which are the [Vertical Village](https://www.mvrdv.nl/projects/13/vertical-village) and the [Wego City](https://thewhyfactory.com/project/wego-tailor-made-housing/), and finally some examples that apply to these ideas. 
-<br/><br/>
 
 ## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
 <br/><br/>
