@@ -1,10 +1,6 @@
-
-**[The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch)** <br/>
-
-
 [![Complex urban fabric](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/assets/substrateBW1000.jpg?raw=true "Complex Urban Fabric")](http://www.complexification.net)
 
-This is an ambitious studio looking at the ground up or purpose-built Capital city intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control in China), we have been limited in our ability to travel to any notable extent. As an opportunity to look beyond the physical world to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts.
+This is an ambitious studio looking at the ground up or [The Purpose-built Capital](https://en.tempo.co/read/1234359/7-capital-cities-that-were-built-from-scratch) city intended to be a traveling studio. Due to the global pandemic (even with the situation relatively under control in China), we have been limited in our ability to travel to any notable extent. As an opportunity to look beyond the physical world to travel - we have resorted to virtual travel. In turn we will be resorting to virtual explorations, and thus documentation as an outlet for our creative efforts.
 
 We will be considering historic, technical, and theoretical aspects of purpose built cities. Even the cliche statement: “form follows function” still holds significant merit due to the fact that it is almost futile attempting to consider form with the challenges of the function demanding consideration. It is for this reason that a large focus will be put on technical aspects of the city. For example one key element of focus for the studio is the mundane need to integrate housing into the solution set for any urban condition. Yet these are not the only technical aspects we are interested in covering. Conceptions such as Arcology or more concrete instantiations such as Mazdar have taken on the impact of human development on “spaceship earth”. Thus sustainability will be an important part of the studios objectives and foci.
 
