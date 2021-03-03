@@ -4,7 +4,7 @@
          <img alt="Porocity_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Porocity/cover_picture.jpg"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking">
-         <img alt="The Stacks" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg" width="375"></a>
+         <img alt="The Stacks" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg" width="370"></a>
       </td>
   </tr>
   <tr>
