@@ -2,7 +2,8 @@
   <tr>
   <td><strong>Research</strong> </td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Resources">Resources</a></td> <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/About">About</a></td>
   </tr>
-  </table>
+  </table><br/>
+  
 
 <table>
   <tr>
