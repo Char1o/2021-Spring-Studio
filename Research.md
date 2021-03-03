@@ -27,7 +27,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <br/>
 <br/>
 
-## [ECOLOGICAL GROUP](https://steenblikrs.github.io/2021-Spring-Studio/Research/rose,mia,matthew/1)
 
 <br/>
 <br/>
