@@ -48,7 +48,7 @@ minima:
 header_pages:
   - about.md
 
-Build settings
+#Build settings
 theme: minima
 skin: dark
 
