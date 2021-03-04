@@ -3,7 +3,7 @@
 
 
 ## Research
-
+[INSPIRATIONS]()
 
 ## Project
 
