@@ -7,6 +7,7 @@
 
 [![Personal picture](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/personal%20picture%20for%20web.jpg?raw=true "Personal picture")]()
 
+<br>
 
 ## Project
 Spring 2021 Wenzhou
