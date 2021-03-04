@@ -44,9 +44,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 **Sarry, Rachel & Kristen**
 <iframe src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/Sarry%2C%20Rachel%2C%20Kristen/Sarry%2C%20Rachel%2C%20Kristen.pptx" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-layout: minimal
-title: "Sarry, Rachel, Kristen.pptx"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/Research/Sarry%2C%20Rachel%2C%20Kristen/Sarry%2C%20Rachel%2C%20Kristen.pptx
  <br/>
  <br/>
  <br/>
