@@ -8,6 +8,6 @@ A junior student from [Wenzhou-Kean University](http://www.wku.edu.cn/), Michael
 
  <br>
 ## Selected Work 
-Group Research [Week 1](2021-Spring-Studio/Research/Stacking)
+Group Research [Week 1](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
 
 
