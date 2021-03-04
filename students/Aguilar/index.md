@@ -3,7 +3,8 @@
 
 
 ## Research
-[INSPIRATIONS]()
+[INSPIRATIONS](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/inspiration)
+<br/>
 
 ## Project
 
