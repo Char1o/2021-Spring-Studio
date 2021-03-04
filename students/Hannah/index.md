@@ -1,11 +1,10 @@
 
-# Hannah Yang
+# Hannah Yang :)
 
 ## Introduction
 
--Architecture student
 
--Hangzhou
+Yang Jiayin is a junior architecture student at Wenzhou-Kean University. She is from Xiaoshan, Hangzhou. She loves to walk alone.
 
 
 ## Projects
