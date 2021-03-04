@@ -31,7 +31,7 @@ Identification photo
 
 ### 3. Portfolio
 
-[Works in Wenzhou Kean University](https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_82embed?start=true&loop=true&delayms=3000?raw=true "Sarry's portfolio")
+[Works in Wenzhou Kean University](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/portifolio.pdf?raw=true "Sarry's portfolio")
 
 
 
