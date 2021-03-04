@@ -6,6 +6,9 @@
 
 ### 1. Introduction
 
+I am a senior student of architecture in WKU. I have a wide range of hobbies, and I have a strong interest in architecture and philosophy. I am an idealist. I often have strange ideas and apply them to my study. I am compassionate, I love the world, and I want to use my life to make others happy.
+
+
 ### 2. Photos
 
 [![Personal Photo](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304110634.jpg?raw=true "Sarry's identification photo")]()
@@ -27,7 +30,8 @@ Identification photo
 
 ### 3. Portfolio
 
-[Works in Wenzhou Kean University](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/portifolio.pdf?raw=true "Sarry's portfolio")
+[Works in Wenzhou Kean University](https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_82embed?start=true&loop=true&delayms=3000?raw=true "Sarry's portfolio")
+<iframe src="https://docs.google.com/document/d/1ZIJE7_p2r-eUkdPQgZLuCr-vLi-K-D9yXVsRXkZFAmI/edit" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
@@ -35,4 +39,3 @@ Identification photo
 
 week 1:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_82embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
