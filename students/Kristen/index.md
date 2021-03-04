@@ -9,9 +9,14 @@
 
 
 ## Project
-Spring 2021 Wenzhou
-  Week1: [Group Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
-
+Spring 2021 Wenzhou<br>
+  Week1: 
+ [Group Research] About Floating city<br> (https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
+<img alt="cloud city" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Kristen/cloud city.jpg?raw=true" width="300"> 
+<br>
+<br>
+<br>
+<br>
 
 layout: minimal 
 title: "index" 
