@@ -5,7 +5,7 @@
 Junior architecture students from Wenzhou-Kean University, Michael Graves College.
 
 ## Research
-[INSPIRATIONS](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/inspiration)
+[INSPIRATIONS](https://github.com/steenblikrs/2021-Spring-Studio/tree/gh-pages/students/Charlo/Precedents)
 <br/>
 
 ## Project
