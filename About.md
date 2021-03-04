@@ -44,9 +44,10 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [**Latika**](https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index)
 <br/>
+[Alex](https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index)**
+<br/>
 
 layout: minima
 title: "About"
 permalink: https://steenblikrs.github.io/2021-Spring-Studio/About
-[Alex](https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index)**
-<br/>
+
