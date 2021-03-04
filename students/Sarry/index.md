@@ -35,3 +35,4 @@ Identification photo
 
 week 1:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_82embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
