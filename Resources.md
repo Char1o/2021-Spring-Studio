@@ -45,6 +45,8 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [Imaginary Cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 
+[Writing a world](fict.site/resources)
+
 
 
   
