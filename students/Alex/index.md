@@ -12,5 +12,5 @@ Junior student from Wenzhou Kean University, Michael Graves College, School of P
 <p><br />
 <br />
 
-## Precedence(https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Alex/information.md)
+## [Precedence](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Alex/information.md)
 
