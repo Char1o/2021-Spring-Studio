@@ -19,8 +19,17 @@
 ## #6 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
  <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
  
+## #7 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
+
+## #8 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
+
+## #9 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
  
- 
+## #10 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
  
 https://github.com/steenblikrs/2021-Spring-Studio/blob/9bee46ea4a90d4714949d115ca2d43d27e148bd0/students/Aguilar/ASSETS/1.jpg
 "Guerrilla Park" (Welland, ON, Canada)
