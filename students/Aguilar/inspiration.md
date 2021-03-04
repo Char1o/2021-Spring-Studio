@@ -17,7 +17,7 @@
  <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/c477d86089d25455b12cbb85f3545284c048eb9a/students/Aguilar/ASSETS/5.jpg?raw=true" width="300">
  
 ## #6 World's largest Gingerbread Town, 2020 / Bergen Reiselivslag
- <img alt="Aguilar" src="https://https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg.jpg?raw=true" width="300">
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg.jpg?raw=true" width="300">
  
  
  
