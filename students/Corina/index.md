@@ -9,7 +9,7 @@
 
  <br>
 ## Selected Work 
-   Group Research 
+### Group Research 
    <br>
  [Week 1](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
