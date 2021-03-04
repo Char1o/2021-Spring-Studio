@@ -40,6 +40,7 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <br/><br/>
 
 **[City of a Thousand Planets](https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index)**
+
 **Sarry, Rachel & Kristen**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_75 frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
