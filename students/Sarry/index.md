@@ -3,7 +3,10 @@
 
 ## Personal Introduction
 
-### 1. Photos
+
+### 1. Introduction
+
+### 2. Photos
 
 [![Personal Photo](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210304110634.jpg?raw=true "Sarry's identification photo")]()
 Identification photo
@@ -22,6 +25,13 @@ Identification photo
 2020
 
 
-### 2. Portfolio
+### 3. Portfolio
 
-Works in Wenzhou Kean University[
+[Works in Wenzhou Kean University](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/portifolio.pdf?raw=true "Sarry's portfolio")
+
+
+
+### 4. Spring 2021 Wenzhou 
+
+week 1:[group ppt]
+
