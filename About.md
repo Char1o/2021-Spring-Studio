@@ -46,7 +46,7 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Alex](https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index)
 <br/>
-[**CJ**](https://github.com/steenblikrs/2021-Spring-Studio/blob/d1c3a7fb3d1de8a51283cb9744ea5ae7097c74e3/students/CJ/Index.md)
+[**CJ**](https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/index.md)
 <br/>
 
 layout: minima
