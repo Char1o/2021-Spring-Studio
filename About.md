@@ -37,6 +37,8 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [**Stafford**](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Index)
 <br/>
+[**Latika**](https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index)
+<br/>
 
 layout: minima
 title: "About"
