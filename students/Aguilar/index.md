@@ -25,7 +25,7 @@
 
 
 
-
 layout: minimal
-title: "index.md"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index.md
+title: "inde"
+permalink: https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index.md.
+
