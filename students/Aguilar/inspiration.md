@@ -19,17 +19,15 @@
 ## #6 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
  <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
  
-## #7 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
- <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
+## #7 Eating the City London, 2019 / Song Dong
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/a5336fba79b3ad50f641b4f5213026ce1fb72c77/students/Aguilar/ASSETS/7.jpg?raw=true" width="300">
 
-## #8 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
- <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
+## #8 Print advertisement of Switzerland for Tibits Vegetarian Restaurant, 2013 / BBDO
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/a5336fba79b3ad50f641b4f5213026ce1fb72c77/students/Aguilar/ASSETS/8.jpg?raw=true" width="300">
 
-## #9 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
- <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
+## #9 Movie:Charlie and the Chocolate Factory, 2005 / Directed by Tim Burton
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/a5336fba79b3ad50f641b4f5213026ce1fb72c77/students/Aguilar/ASSETS/9.jpg?raw=true" width="300">
  
-## #10 World's largest Gingerbread Town, 2020 / photo by Bergen Reiselivslag
- <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/6a76b6dbd348180788a7720c4141e750dffb378a/students/Aguilar/ASSETS/6.jpg?raw=true" width="300">
- 
-https://github.com/steenblikrs/2021-Spring-Studio/blob/9bee46ea4a90d4714949d115ca2d43d27e148bd0/students/Aguilar/ASSETS/1.jpg
-"Guerrilla Park" (Welland, ON, Canada)
+## #10 Kungfood, 2018 / Directed by	Haipeng Sun
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/a5336fba79b3ad50f641b4f5213026ce1fb72c77/students/Aguilar/ASSETS/10.jpg?raw=true" width="300">
+
