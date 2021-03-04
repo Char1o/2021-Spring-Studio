@@ -2,5 +2,5 @@
 
 <img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Alex/pic/unnamed.jpg" width="500">
 <br>
-<img alt="Alex" scr="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Alex/pic/wide2.jpg" width="500">
+<img alt="Alex" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Alex/pic/wide2.jpg" width="500">
 <br>
