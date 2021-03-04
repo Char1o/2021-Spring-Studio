@@ -16,6 +16,7 @@ Spring 2021 Wenzhou<br>
 <br>
 <br>
 <br>
+Email:jiayuq@kean.edu
 <br>
 
 layout: minimal 
