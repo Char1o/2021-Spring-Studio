@@ -4,7 +4,7 @@
 <br>
 **Biography**   
 
- Cai Nuoying, an architecture student of Michael Graves College at [Wenzhou-Kean University](http://www.wku.edu.cn/) in 2018. A mumber of [AIAS](https://www.aias.org/). 
+ Cai Nuoying, an architecture student of Michael Graves College at [Wenzhou-Kean University](http://www.wku.edu.cn/) in 2018. 
  
  <img alt="Rachel" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Rachel/1234567.jpg?raw=true" width="300">
  
