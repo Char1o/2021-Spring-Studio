@@ -14,5 +14,5 @@
  <br>
  [Week 2] To be continued...
  <br>
- ### Individual project
+### Individual project
 
