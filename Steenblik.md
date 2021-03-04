@@ -8,7 +8,7 @@ Biography: Ralph Spencer Steenblik has lectured, published, exhibited, and curat
 
 
 
-
-layout: minimal
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+layout: minima
 title: "Steenblik"
 permalink: https://steenblikrs.github.io/2021-Spring-Studio/Steenblik
