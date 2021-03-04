@@ -12,8 +12,8 @@
 **Project in 2021 Spring**
 - Week1: Group work [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index) (*Responsible for the theoretical aspects*）
 
-  <img alt="Sky City" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Rachel/Sky City.jpg?raw=true" width="200"> 
- <br>
+<img alt="Sky City" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Rachel/Sky City.jpg?raw=true" width="200"> 
+<br>
  
  
  
