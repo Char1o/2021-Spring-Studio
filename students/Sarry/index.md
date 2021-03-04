@@ -33,5 +33,5 @@ Identification photo
 
 ### 4. Spring 2021 Wenzhou 
 
-week 1:[group ppt](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/%E5%B0%8F%E7%BB%84%20(1).pptx?raw=true "group ppt")
+week 1:<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?slide=id.gc2a0d064d3_2_82embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
