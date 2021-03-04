@@ -1,2 +1,0 @@
-# Acrosanti Paolo Soleri 1970
-
