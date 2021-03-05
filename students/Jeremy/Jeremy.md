@@ -7,6 +7,7 @@
 Junior student from Wenzhou Kean University, Michael Graves College, School of Public Architecture.
 <br>
 Hometown: Yiwu City, Jinhua City, Zhejiang Province, China
+<br>
 Email：zeshengz@kean.edu
 <br>
 WeChat：a1293045656
