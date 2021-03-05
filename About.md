@@ -10,9 +10,9 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 
 ### Students
 
-[Aguilar](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index)
+**[Aguilar](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/index)
 <br/>
-**[Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index)
+[Carol](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index)
 <br/>
 [Corina](https://steenblikrs.github.io/2021-Spring-Studio/students/Corina/index)
 <br/>
@@ -38,20 +38,20 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Lyla](https://steenblikrs.github.io/2021-Spring-Studio/students/Lyla/index)
 <br/>
-[Rose](https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/index)**
+[Rose](https://steenblikrs.github.io/2021-Spring-Studio/students/Rose/index)
 <br/>
-[**Sarry**](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
+[Sarry](https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index)
 <br/>
-[**Stafford**](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Index)
+[Stafford](https://steenblikrs.github.io/2021-Spring-Studio/students/Stafford/Index)
 <br/>
-[**Latika**](https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index)
+[Latika](https://steenblikrs.github.io/2021-Spring-Studio/students/Latika/index)
 <br/>
 [Alex](https://steenblikrs.github.io/2021-Spring-Studio/students/Alex/index)
 <br/>
-[**CJ**](https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/Index)
+[CJ](https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/Index)
 <br/>
-[**Jeremy**](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Jeremy/Jeremy.md)
-<br/>
+[Jeremy](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Jeremy/Jeremy)
+<br/>**
 
 layout: minima
 title: "About"
