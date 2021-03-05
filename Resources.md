@@ -63,6 +63,8 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [Simple Abstract Painting Generator](http://randomatizm.hack.exchange/index.html)
 
+[The Artist in the Machine: The World of AI-Powered Creativity](https://www.amazon.com/dp/0262539624/ref=cm_sw_r_oth_api_glt_fabc_DBANR7NWV0KKD93AM20J) [(Book Review)](https://link.springer.com/content/pdf/10.1007/s10710-020-09392-3.pdf)
+
 [CAN: Creative Adversarial Networks - Generating “Art” by Learning About Styles and Deviating from Style Norms(paper)](https://arxiv.org/pdf/1706.07068.pdf)
 
 [Creative-Adversarial-Networks (github)](https://github.com/mlberkeley/Creative-Adversarial-Networks)
@@ -71,19 +73,19 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [Runwayml.com](app.runwayml.com)[(Tutorial)](https://medium.com/aixdesign/dreaming-up-imaginary-landscapes-with-runway-ml-b8eb95df2abe)
 
-[algorithms.design](https://algorithms.design/) [(Google Doc list of resources)](https://docs.google.com/spreadsheets/d/1kH_6NcVq2zRPE6JYGsa1UWx-VACt-hepxRz2brCmdik/edit#gid=137467813)
-
 [artbreeder](https://www.artbreeder.com/)
 
 [deepart.io](https://deepart.io/img/rJrAhq7D/)
 
 [crea-blender](https://www.scienceathome.org/games/crea-blender-sdg/)
 
-[The Artist in the Machine: The World of AI-Powered Creativity](https://www.amazon.com/dp/0262539624/ref=cm_sw_r_oth_api_glt_fabc_DBANR7NWV0KKD93AM20J) [(Book Review)](https://link.springer.com/content/pdf/10.1007/s10710-020-09392-3.pdf)
+[difftaichi (python library)](https://github.com/yuanming-hu/difftaichi)
 
 [awesome-machine-learning-art on Github](https://github.com/vibertthio/awesome-machine-learning-art)
 
-[difftaichi (python library)](https://github.com/yuanming-hu/difftaichi)
+[aiartists.org](https://aiartists.org/ai-generated-art-tools)
+
+[algorithms.design](https://algorithms.design/) [(Google Doc list of resources)](https://docs.google.com/spreadsheets/d/1kH_6NcVq2zRPE6JYGsa1UWx-VACt-hepxRz2brCmdik/edit#gid=137467813)
 
 **Proceedural Modeling**
 
