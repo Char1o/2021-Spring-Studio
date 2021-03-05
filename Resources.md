@@ -75,6 +75,8 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 
 [artbreeder](https://www.artbreeder.com/)
 
+[deepart.io](https://deepart.io/img/rJrAhq7D/)
+
 [The Artist in the Machine: The World of AI-Powered Creativity](https://www.amazon.com/dp/0262539624/ref=cm_sw_r_oth_api_glt_fabc_DBANR7NWV0KKD93AM20J) [(Book Review)](https://link.springer.com/content/pdf/10.1007/s10710-020-09392-3.pdf)
 
 [awesome-machine-learning-art on Github](https://github.com/vibertthio/awesome-machine-learning-art)
