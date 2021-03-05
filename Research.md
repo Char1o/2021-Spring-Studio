@@ -35,15 +35,17 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 <br/>
+
 **Aguilar,Alex, Charlo Presentation**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 <br/>
+
 **C.J., Harry, Lance**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-**[City of a Thousand Planets]**(https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index)**
+<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">**City of a Thousand Planets**</a>
 
 
 
