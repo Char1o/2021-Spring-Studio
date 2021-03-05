@@ -10,3 +10,4 @@ layout: minimal
 title: "Jeremy" 
 permalink: https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Jeremy/Jeremy.md
 
+[ss](url)
