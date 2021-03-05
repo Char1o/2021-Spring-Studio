@@ -6,7 +6,7 @@
 ## Introduction
 
 
-<img alt="Hannah" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Hannah/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg">
+<img alt="Hannah" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Hannah/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg?raw=true">
 
 Yang Jiayin is a junior architecture student at Wenzhou-Kean University. She is from Xiaoshan, Hangzhou. She loves to walk alone.
 
