@@ -59,7 +59,7 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 **Github/Markdown** [(tutorial)](https://kean-edu.zoom.us/rec/share/uOXFeuf1ZHkymXBAO6_rVA4zX2ZDmClAHyFr2FN8jK1eZfc8jsJl6XeRDRHQfP1U.tw7BpHh_V2ya5OV0?startTime=1614302275000)
 
 
-**ML / AI in Art and Architecture**
+**ML / AI in Art and Architecture** ([tutorial](https://kean-edu.zoom.us/rec/share/9bpbwioUe8SBau4w8IZrrSdCAixXiuDXPSqu4QvwpgbzZ0D764NcvFtEd5fONjby.aHsILYAkLRSCaBX5?startTime=1614909237000))
 
 [Simple Abstract Painting Generator](http://randomatizm.hack.exchange/index.html)
 
