@@ -8,7 +8,7 @@
          <img alt="The Stacks" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg" width="370"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">
-         <img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky city.jpg"width='370'></a>
+         <img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky%20city.jpg" width='370'></a>
          </td>
    
   </tr>
