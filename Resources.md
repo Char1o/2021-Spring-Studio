@@ -1,7 +1,7 @@
 **[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** &nbsp; &nbsp; &nbsp;        **Resources**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
 
 
-#### Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals (History) ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
+##### **Purpose-built Cities [(planned communities)](https://en.wikipedia.org/wiki/Planned_community) focusing on Capitals** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH3106StudioSyllabus.html))
 
 
 The Great Capital Cities of China:
@@ -51,7 +51,7 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
   
   <br/><br/><br/><br/> <!-- These are line breaks -->
 
-#### Representation - A Digital Lexicon** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html))
+##### **Representation - A Digital Lexicon** ([Syllabus](https://steenblikrs.github.io/2021-Spring-Studio/SP2021WARCH2304Rep4Syllabus.html))
 
 **Grasshopper** [(General Tutorial)](https://kean-edu.zoom.us/rec/share/RKNLQYQu6KcwaTWdO5uN-IjPCdeNsK0QpmfLH1t8hMnLJ-YmPUtb5xBFkyvKLeY.Jv5RHYU-MHv-1p12?startTime=1614405732000), [(Kangaroo Tutorial)](https://kean-edu.zoom.us/rec/share/g7yWFRbOKFmnFVWBWqfuxmHt20XIg4Fg73QLxA6aGbQwGSweWkonUg0DCtv7-m55.8nZYOOGZ9Ki4N_Kr?startTime=1614410919000)
 
