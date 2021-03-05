@@ -8,7 +8,7 @@
          <img alt="The Stacks" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Stacking/rpo-c.jpg" width="370"></a>
       </td>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">
-         <img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky%20city.jpg" width='614.5'></a>
+         <img alt="Floating_Picture" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Research/Floating/sky%20city.jpg" width='370'></a>
          </td>
    
   </tr>
@@ -24,7 +24,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     <br>Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">the Sky City</a>, and <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
     </td>
 
-
+</table>
 
 <br/>
 
