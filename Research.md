@@ -23,8 +23,6 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a>, 
     <br>Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">the Sky City</a>, and <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
     </td>
-</tr>
-</table>
 
 
 
