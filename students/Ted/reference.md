@@ -1,7 +1,7 @@
 # Reference
 
 ## #1 Spaceship Fuller
- <img alt="Ted" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/484fe0ac9332a1c652b1be5c52818d00d41323a9/students/Ted/1.jpg>
+https://github.com/steenblikrs/2021-Spring-Studio/blob/b4e560cfd010f6b7f1d109b22c39b186a2167d8e/students/Ted/1.jpg
 
 ## #2 Biosphere 2
  <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/d01ffb85cbad1819878b8f8f1f1ea4336e2722c1/students/Aguilar/ASSETS/2.jpg?raw=true" width="300">
