@@ -28,18 +28,18 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
 
 <br/>
 
-**Ted&Huey's presentation**
+**Ted&Huey's presentation** 
 This presentation is mainly discussing about the Project Spaceship Earth 2050. This research is forcing on the close ecosystem and rotating wheel spaceship.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 <br/>
 
-**Aguilar,Alex, Charlo Presentation**
+**Aguilar,Alex, Charlo Presentation** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 <br/>
 
-**C.J., Harry, Lance**
+**C.J., Harry, Lance** 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
