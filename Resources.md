@@ -59,7 +59,37 @@ Possibly a conceptual city of your choice (refer to [Graham's Lecture](https://w
 **Github/Markdown** [(tutorial)](https://kean-edu.zoom.us/rec/share/uOXFeuf1ZHkymXBAO6_rVA4zX2ZDmClAHyFr2FN8jK1eZfc8jsJl6XeRDRHQfP1U.tw7BpHh_V2ya5OV0?startTime=1614302275000)
 
 
-**ML / AI**
+**ML / AI in Art and Architecture**
+
+[Simple Abstract Painting Generator](http://randomatizm.hack.exchange/index.html)
+
+[CAN: Creative Adversarial Networks - Generating “Art” by Learning About Styles and Deviating from Style Norms(paper)](https://arxiv.org/pdf/1706.07068.pdf)
+
+[Creative-Adversarial-Networks (github)](https://github.com/mlberkeley/Creative-Adversarial-Networks)
+
+[Creative Adversarial Networks (CAN) and artificial intelligence as artist](https://medium.com/can-artificial-intelligence-can-be-an-artist/creative-adversarial-networks-can-and-artificial-intelligence-as-artist-fd8a33181c33)
+
+[Runwayml.com](app.runwayml.com)[(Tutorial)](https://medium.com/aixdesign/dreaming-up-imaginary-landscapes-with-runway-ml-b8eb95df2abe)
+
+[algorithms.design](https://algorithms.design/) [(Google Doc list of resources)](https://docs.google.com/spreadsheets/d/1kH_6NcVq2zRPE6JYGsa1UWx-VACt-hepxRz2brCmdik/edit#gid=137467813)
+
+[artbreeder](https://www.artbreeder.com/)
+
+[The Artist in the Machine: The World of AI-Powered Creativity](https://www.amazon.com/dp/0262539624/ref=cm_sw_r_oth_api_glt_fabc_DBANR7NWV0KKD93AM20J) [(Book Review)](https://link.springer.com/content/pdf/10.1007/s10710-020-09392-3.pdf)
+
+[awesome-machine-learning-art on Github](https://github.com/vibertthio/awesome-machine-learning-art)
+
+[difftaichi (python library)](https://github.com/yuanming-hu/difftaichi)
+
+**Proceedural Modeling**
+
+[Cityscape Generator Search](https://www.google.com/search?q=cityscape+generator&safe=active&sxsrf=ALeKk02tN0mewLbmWqkbEOCaPazdLcK6iQ:1614879012767&ei=JBlBYNeqLua9ggeCyZX4BQ&start=10&sa=N&ved=2ahUKEwjXzKSPlZfvAhXmnuAKHYJkBV8Q8NMDegQICxBI&biw=1536&bih=792)
+
+[Hudini tutorial](https://vimeo.com/354630935)
+
+[Blender Plugin](http://www.cgchan.com/)
+
+[Simple city generator](https://probabletrain.itch.io/city-generator)
 
 
 **Photogrammetry**
