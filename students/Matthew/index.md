@@ -1,9 +1,6 @@
 **Matthew | Yuyang Tong**
-
-**Introduction**
-
 <img alt="Matthew" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/students/Matthew/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210305145832.jpg?raw=true" width="300">
-
+**Introduction**
 Junior student from Wenzhou Kean University, Michael Graves College, School of Public Architecture.
 
 
