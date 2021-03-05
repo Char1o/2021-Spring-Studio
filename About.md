@@ -26,6 +26,8 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [Huey](https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/index)
 <br/>
+[Matthew](https://steenblikrs.github.io/2021-Spring-Studio/students/Matthew/index)
+<br/>
 [Mia](https://steenblikrs.github.io/2021-Spring-Studio/students/Mia/index)
 <br/>
 [Bella](https://steenblikrs.github.io/2021-Spring-Studio/students/Bella/index)
@@ -50,8 +52,19 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 <br/>
 [CJ](https://steenblikrs.github.io/2021-Spring-Studio/students/CJ/Index)
 <br/>
-[Jeremy](https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/Jeremy)
-<br/>**
+[Jeremy](https://steenblikrs.github.io/2021-Spring-Studio/students/Jeremy/Jeremy)**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
 
 layout: minima
 title: "About"
