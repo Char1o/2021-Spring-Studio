@@ -21,7 +21,7 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     <td><strong><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index">Floating</a></strong>  <br/>By <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Sarry/index">Sarry</a>, 
     <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Rachel/index">Rachel</a>, 
     <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a>, 
-    <br>Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">the Sky City</a>, and <a herf="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a>, in the movie Star War.
+    <br>Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">the Sky City</a>, and <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a>, in the movie Star War.
     </td>
 </tr>
 </table>
@@ -39,7 +39,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 <br/>
-
 **C.J., Harry, Lance**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
