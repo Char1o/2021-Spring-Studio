@@ -12,7 +12,7 @@ My name is Corina. I am from Yantai, Shandong Province, China. I’m a recent ju
 ### Group Research 
  [Week 1](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
  <br>
- [Week 2] [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/blob/gh-pages/students/Corina)
+ [Week 2] [Stacking Building Research](https://steenblikrs.github.io/2021-Spring-Studio/blob/gh-pages/students/Corina/Research)
  <br>
 ### Individual project
 
