@@ -1,4 +1,5 @@
 **Research** &nbsp; &nbsp; &nbsp;        **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)**  &nbsp; &nbsp; &nbsp;    **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**
+
 <table>
   <tr>
     <td><a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity">
@@ -23,14 +24,21 @@ Inspired by the film <a href="https://en.wikipedia.org/wiki/Ready_Player_One_(fi
     <a href="https://steenblikrs.github.io/2021-Spring-Studio/students/Kristen/index">Kristen</a>, 
     <br>Inspired by the theory of <a href="https://thewhyfactory.com/news/what-if-we-could-fly-sky-city-presentation/">the Sky City</a>, and <a href="https://starwars.fandom.com/wiki/Cloud_City">the Cloud City</a> in the movie Star War.
     </td>
+    </tr>
+
 
 </table>
 
 <br/>
 
-<strong>Ted&Huey's presentation</strong>
-This presentation is mainly discussing about the Project Spaceship Earth 2050. This research is forcing on the close ecosystem and rotating wheel spaceship.
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<strong>Spaceship Earth</strong>Ted & Huey
+
+Inspired by the [USC WBML](https://worldbuilding.usc.edu/) "Spaceship Earth 2050". This research is focusing on closed ecosystems such as rotating wheel spaceship, etc.
+
+
 <br/>
 <br/>
 
@@ -43,7 +51,7 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNjG565_2GiMWgezXsS_V67huWbOUbBTyfnys6IYD4OlH0Qn7mI8iZMBs5I7zN5w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
-<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">**City of a Thousand Planets**</a>
+**<a href="https://steenblikrs.github.io/2021-Spring-Studio/Research/station/index">City of a Thousand Planets</a>**
 
 
 
@@ -78,6 +86,6 @@ This presentation is mainly discussing about the Project Spaceship Earth 2050. T
 
 
 
-
+layout: minima
 title: "Research"
 permalink: https://steenblikrs.github.io/2021-Spring-Studio/Research
