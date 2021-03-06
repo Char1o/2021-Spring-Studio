@@ -6,7 +6,7 @@ Ralph Spencer Steenblik has lectured, published, exhibited, and curated globally
 <a href="https://phi.archi"><img alt="Photo of Spencer" src="https://raw.githubusercontent.com/steenblikrs/2021-Spring-Studio/gh-pages/Steenblik/Steenblik.gif" width="300"></a>
 
 
-[Google Scholar](https://scholar.google.com/citations?user=a2dmZpQAAAAJ&hl=en)  |  [Twitter](https://twitter.com/steenblikrs)  |  [Instagram](www.instagram.com/steenblikrs)  |  [Linkedin](https://www.linkedin.com/in/steenblikrs)
+[Google Scholar](https://scholar.google.com/citations?user=a2dmZpQAAAAJ&hl=en)  [Twitter](https://twitter.com/steenblikrs) [Instagram](www.instagram.com/steenblikrs) [Linkedin](https://www.linkedin.com/in/steenblikrs)
 
 
 <br/><br/><br/>
