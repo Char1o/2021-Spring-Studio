@@ -12,8 +12,3 @@ Ralph Spencer Steenblik has lectured, published, exhibited, and curated globally
 <br/><br/><br/>
 
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-layout: minima
-title: "Steenblik"
-permalink: https://steenblikrs.github.io/2021-Spring-Studio/Steenblik
