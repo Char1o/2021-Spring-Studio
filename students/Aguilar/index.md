@@ -1,7 +1,7 @@
 
 # Aguilar | GuFeng
 
- <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/ea3a085c15ec1319781c2a8867e4921946da9849/students/Aguilar/ASSETS/image%20of%20me.jpg?raw=true" width="300">
+ <img alt="Aguilar" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/c053535b134851573584310c10c19875938fc2f9/students/Aguilar/ASSETS/%E5%8E%BB%E8%89%B2%E7%85%A7.jpg?raw=true" width="300">
 
 ## Research
 [INSPIRATIONS](https://steenblikrs.github.io/2021-Spring-Studio/students/Aguilar/inspiration)
